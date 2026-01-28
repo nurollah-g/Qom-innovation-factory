@@ -66,7 +66,7 @@ Write npm start in terminal
 -----
 
 
-##🎯 Project Goals
+## 🎯 Project Goals
 Showcase innovative front-end solutions
 Improve user experience in municipal digital platforms
 Utilize lightweight and modern web technologies
@@ -75,7 +75,7 @@ Enable easy future development and scalability
 -----
 
 
-##👤 Author
+## 👤 Author
 
 Nurollah-g
 Front-End / JavaScript Developer
