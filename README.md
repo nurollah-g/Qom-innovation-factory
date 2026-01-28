@@ -78,6 +78,6 @@ Enable easy future development and scalability
 ## 👤 Author
 
 Nurollah-g
-Front-End / JavaScript Developer
-Collaborated with Innovation Factory of Qom Municipality
+- Front-End / JavaScript Developer
+- Collaborated with Innovation Factory of Qom Municipality
 
